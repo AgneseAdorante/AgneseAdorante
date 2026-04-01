@@ -1,13 +1,12 @@
 # Hi, I'm Agnese 👋  
-🎓 Currently: MSc in Computational Neuroscience @ University of Tübingen  
-🎓 Previously: BSc in Mathematics for AI @ Bocconi University  
+🎓 Currently: MSc Computational Neuroscience @ University of Tübingen  
+🎓 Previously: BSc Mathematics for AI @ Bocconi University  
 🧠 Interested in AI × Neuroscience  
 ---
 ## 🌱 Interests
 - 🧠 Computational & biological vision  
 - 🤖 Neuromorphic AI systems  
 - 📚 Linking structure to function in neural circuits 
-- 📐 Mathematical descriptions of brain circuits  
 ---
 ## 🛠️ Frameworks & Tools
 <p>
