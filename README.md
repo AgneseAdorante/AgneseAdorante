@@ -5,7 +5,8 @@
 ## 🌱 Interests
 - 🧠 Computational & biological vision  
 - 🤖 NeuroAI
-- 📚 Linking structure to function in neural circuits 
+- 📚 Linking structure to function in neural circuits
+- ⚡ Spiking Neural Networks
 ---
 ## 📫 Contact
 <p>
