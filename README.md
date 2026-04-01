@@ -4,7 +4,7 @@
 ---
 ## 🌱 Interests
 - 🧠 Computational & biological vision  
-- 🤖 Neuromorphic AI systems  
+- 🤖 NeuroAI
 - 📚 Linking structure to function in neural circuits 
 ---
 ## 📫 Contact
